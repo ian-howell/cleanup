@@ -1,0 +1,5 @@
+github.com/ian-howell/gocurse v0.0.0-20190518041647-07add7f6f4d3 h1:k+eJRsd6PezxhN7i1SaWtyFqGjKD55jUtSHi0+XjNhQ=
+github.com/ian-howell/gocurse v0.0.0-20190518041647-07add7f6f4d3/go.mod h1:tA7eSdVoq7Cc7AsM1CEm7RYLDwAjeC1Wz4auI3dbWvo=
+github.com/ian-howell/gocurse v0.0.0-20200911202037-7d492590eec4 h1:+Y/isVvebi0Ee+6i/w+bgjK5LNe+L/3W/KS1qgZBvTs=
+github.com/ian-howell/gocurse v0.0.0-20200911202037-7d492590eec4/go.mod h1:vzui5EGGHRox28MlDhnpHHKBMh7s8y95MEVooxd6mlU=
+github.com/mpatraw/gocurse v0.0.0-20151016042152-16f41dec53bc/go.mod h1:e9U3s5pzluK7SKWjpuFEyUSVT0goz77K3zu2Vk7kWIs=
