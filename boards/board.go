@@ -31,7 +31,13 @@ type board struct {
 }
 
 func New(rows, cols int) board {
-	return board{Grid: grids.New(rows, cols)}
+	b := board{Grid: grids.New(rows, cols)}
+	for r := 0; r < b.NumRows(); r++ {
+		for c := 0; c < b.NumCols(); c++ {
+			b.Set(r, c)
+		}
+	}
+	return b
 }
 
 func (b board) Draw(win *curses.Window) error {
