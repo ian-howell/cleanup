@@ -59,7 +59,7 @@ func Initialize(screen *curses.Window) error {
 }
 
 func Play(screen *curses.Window) {
-	b := boards.New(6, 8)
+	b := boards.New(6, 6)
 	Shuffle(&b)
 	b.Draw(screen)
 
